@@ -1,0 +1,7 @@
+wap that creates and initialize a four int element array calaculate and display average of that values.
+
+wap  to print given array in reverse array.
+
+4.
+
+5. wap that searches through its command line argument if an argument that does not begin with uppercase letter display message and terminnate.

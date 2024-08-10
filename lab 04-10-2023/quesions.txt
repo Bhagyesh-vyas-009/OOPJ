@@ -1,0 +1,5 @@
+wap to create circle class with area function to find area of circle.
+
+define time class with constructor to initialize hour and minute also define additon method to add to time objects.
+
+power of number without using multiplication and power function.

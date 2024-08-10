@@ -1,0 +1,1 @@
+wap to read an array of number and calculate row and column sum as well as grand total
